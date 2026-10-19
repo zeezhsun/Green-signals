@@ -21,9 +21,11 @@ as the name suggests, these insects are primarily green. green in insects is unc
 question 1: what do they navigate with, what serves as their internal compass? 
              we know that they somehow know how to navigate from southern swamps, to northern lakes in Canada,
              how do they do it?
+
 question 2: for some reason unknown, there's a split between the species, the migrators and the residents, we don't know why 
              some of them decide to migrate down south in autumn, whilst there rest stay north. what makes them a migrator or a
              resident?
+
 question 3: where do they stop? we know that they are heading towards the gulf of Mexico, or in that general region, but where is
              the limit? what's the critical wall they have never crossed? and what is the reason for the final destination, and why 
              do they never seem to cleanly reach it?
